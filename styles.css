@@ -2,6 +2,22 @@ body {
   background-color: #000000;
 }
 
-format {
-  /* text-align: center; */
+ul {
+  list-style-type: none;
+}
+
+.format {
+   text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#notes {
+  font-weight: bold;
+}
+
+.sidebar {
+  background-color: #e0ebeb;
 }
